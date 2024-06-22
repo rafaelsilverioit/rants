@@ -58,13 +58,14 @@ With all that said, we can clearly see that software engineering is not by any m
 - Incompetent - because they just want to get things done, fast, without considering the implications of their work.
 - Ignorant - they simply lack knowledge and experience (bear in mind that having X YoE means nothing if you worked X years on the same thing; you've become an SME on that thing).
 
+<br>
 <div style="text-align: center;">
 
 <a href="https://www.x.com/realngnx" target="_blank">
     <img src="https://img.shields.io/badge/-realngnx-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=black" alt="Twitter @realngnx">
 </a>
 <a href="https://www.linkedin.com/in/rafaelsilverioamaral" target="_blank">
-    <img src="https://img.shields.io/badge/-realngnx-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Rafael Silverio Amaral">
+    <img src="https://img.shields.io/badge/-Rafael%20S%20Amaral-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Rafael Silverio Amaral">
 </a>
 <a href="https://www.instagram.com/realngnx" target="_blank">
     <img src="https://img.shields.io/badge/-realngnx-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @realngnx">
